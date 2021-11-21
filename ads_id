@@ -2,10 +2,10 @@
   "ad_data": [
 {
  
-      "admob_appid":"",
-      "admob_banner":"/6499/example/banner",
-      "admob_interstitial":"/6499/example/interstitial",
-      "admob_native":"/6499/example/native"
+      "admob_appid":"ca-app-pub-9892670504973040~8464728745",
+      "admob_banner":"ca-app-pub-9892670504973040/2911998637",
+      "admob_interstitial":"ca-app-pub-9892670504973040/1391851649",
+      "admob_native":"ca-app-pub-9892670504973040/1407345272"
 }
 ]
 }
