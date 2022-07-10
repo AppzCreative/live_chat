@@ -2,14 +2,14 @@
   "ad_data": [
 {
      
-      "admob_banner":"ca-app-pub-9505832315316829/4290827472",
+      "admob_banner":"",
       "admob_interstitial":"",
-      "admob_native":"ca-app-pub-9505832315316829/8164292175",
-      "admob_openad":"ca-app-pub-9505832315316829/8180055305",
+      "admob_native":"",
+      "admob_openad":"",
       
-      "face_banner":"390039143191874_390039959858459",
+      "face_banner":"",
       "face_intertitial":"",
-      "face_native":"390039143191874_390040206525101"
+      "face_native":""
 }
 ]
 }
